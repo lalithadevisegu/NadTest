@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NadTest", "NadTest\NadTest.csproj", "{F7BBA805-50A4-4C09-B8D8-3A3354B0F360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{FC93764A-237D-44DA-AA63-0DCAA7EDCC94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7BBA805-50A4-4C09-B8D8-3A3354B0F360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BBA805-50A4-4C09-B8D8-3A3354B0F360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BBA805-50A4-4C09-B8D8-3A3354B0F360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BBA805-50A4-4C09-B8D8-3A3354B0F360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC93764A-237D-44DA-AA63-0DCAA7EDCC94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC93764A-237D-44DA-AA63-0DCAA7EDCC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC93764A-237D-44DA-AA63-0DCAA7EDCC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC93764A-237D-44DA-AA63-0DCAA7EDCC94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0433759A-77E6-4B74-B4CC-C08A1595990F}
+	EndGlobalSection
+EndGlobal
